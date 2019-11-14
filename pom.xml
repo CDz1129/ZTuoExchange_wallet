@@ -68,6 +68,8 @@
                 <groupId>com.spark.bc</groupId>
                 <artifactId>bitcoin-rpc</artifactId>
                 <version>1.2.0</version>
+                <systemPath>/Users/cdz/IdeaProjects/ZTuoExchange_wallet/jar/bitcoin-rpc-1.2.0.jar</systemPath>
+                <scope>system</scope>
             </dependency>
             <dependency>
                 <groupId>com.ztuo.bc.wallet</groupId>
@@ -91,4 +93,5 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
+
 </project>

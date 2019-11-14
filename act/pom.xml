@@ -49,7 +49,7 @@
         <dependency>
             <groupId>com.ztuo.bc.wallet</groupId>
             <artifactId>rpc-common</artifactId>
-            <version>1.0</version>
+            <version>1.2</version>
         </dependency>
         <dependency>
             <groupId>io.reactivex</groupId>
